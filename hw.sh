@@ -2,7 +2,7 @@
 
 echo Hello World
 ! mess modifié!
-echo Hello poto euigv
+echo Hello poto
 
 
 
